@@ -1,0 +1,86 @@
+1609261411140	geckodriver	INFO	Listening on 127.0.0.1:59103
+1609261412184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileorR9aK"
+Can't find symbol 'eglGetNativeClientBufferANDROID'.
+Can't find symbol 'eglQuerySurfacePointerANGLE'.
+Can't find symbol 'eglCreateStreamKHR'.
+Can't find symbol 'eglDestroyStreamKHR'.
+Can't find symbol 'eglQueryStreamKHR'.
+Can't find symbol 'eglStreamConsumerGLTextureExternalKHR'.
+Can't find symbol 'eglStreamConsumerAcquireKHR'.
+Can't find symbol 'eglStreamConsumerReleaseKHR'.
+Can't find symbol 'eglStreamConsumerGLTextureExternalAttribsNV'.
+Can't find symbol 'eglCreateStreamProducerD3DTextureANGLE'.
+Can't find symbol 'eglStreamPostD3DTextureANGLE'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609261415810	Marionette	INFO	Listening on port 40469
+1609261415942	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1609261573795	geckodriver	INFO	Listening on 127.0.0.1:45009
+1609261573805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTuRYut"
+Can't find symbol 'eglGetNativeClientBufferANDROID'.
+Can't find symbol 'eglQuerySurfacePointerANGLE'.
+Can't find symbol 'eglCreateStreamKHR'.
+Can't find symbol 'eglDestroyStreamKHR'.
+Can't find symbol 'eglQueryStreamKHR'.
+Can't find symbol 'eglStreamConsumerGLTextureExternalKHR'.
+Can't find symbol 'eglStreamConsumerAcquireKHR'.
+Can't find symbol 'eglStreamConsumerReleaseKHR'.
+Can't find symbol 'eglStreamConsumerGLTextureExternalAttribsNV'.
+Can't find symbol 'eglCreateStreamProducerD3DTextureANGLE'.
+Can't find symbol 'eglStreamPostD3DTextureANGLE'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609261576953	Marionette	INFO	Listening on port 43721
+1609261577080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1609261631130	geckodriver	INFO	Listening on 127.0.0.1:33489
+1609261631146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK4PC8C"
+Can't find symbol 'eglGetNativeClientBufferANDROID'.
+Can't find symbol 'eglQuerySurfacePointerANGLE'.
+Can't find symbol 'eglCreateStreamKHR'.
+Can't find symbol 'eglDestroyStreamKHR'.
+Can't find symbol 'eglQueryStreamKHR'.
+Can't find symbol 'eglStreamConsumerGLTextureExternalKHR'.
+Can't find symbol 'eglStreamConsumerAcquireKHR'.
+Can't find symbol 'eglStreamConsumerReleaseKHR'.
+Can't find symbol 'eglStreamConsumerGLTextureExternalAttribsNV'.
+Can't find symbol 'eglCreateStreamProducerD3DTextureANGLE'.
+Can't find symbol 'eglStreamPostD3DTextureANGLE'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609261634526	Marionette	INFO	Listening on port 33909
+1609261634645	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1609262165415	Marionette	INFO	Stopped listening on port 33909
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609262166354	Marionette	INFO	Stopped listening on port 43721
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609262167893	Marionette	INFO	Stopped listening on port 40469
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609262270766	geckodriver	INFO	Listening on 127.0.0.1:38053
+1609262270773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9CeM7R"
+Can't find symbol 'eglGetNativeClientBufferANDROID'.
+Can't find symbol 'eglQuerySurfacePointerANGLE'.
+Can't find symbol 'eglCreateStreamKHR'.
+Can't find symbol 'eglDestroyStreamKHR'.
+Can't find symbol 'eglQueryStreamKHR'.
+Can't find symbol 'eglStreamConsumerGLTextureExternalKHR'.
+Can't find symbol 'eglStreamConsumerAcquireKHR'.
+Can't find symbol 'eglStreamConsumerReleaseKHR'.
+Can't find symbol 'eglStreamConsumerGLTextureExternalAttribsNV'.
+Can't find symbol 'eglCreateStreamProducerD3DTextureANGLE'.
+Can't find symbol 'eglStreamPostD3DTextureANGLE'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609262272201	Marionette	INFO	Listening on port 35865
+1609262272295	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1609262500052	Marionette	INFO	Stopped listening on port 35865
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
