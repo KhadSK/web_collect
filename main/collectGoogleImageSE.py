@@ -2,7 +2,7 @@ from selenium import webdriver
 import time
 import urllib.request
 import os
-from selenium.webdriver.common.keys import Keys
+#from selenium.webdriver.common.keys import Keys
 from datetime import datetime
 import logging
 import json
